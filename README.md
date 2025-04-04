@@ -11,15 +11,15 @@ PM10, NO₂, O₃, CO, network_code
 ## Uso
 A través de la predicción, prever los niveles de contaminación atmosférica, optimizar las estrategias de monitoreo de la calidad del aire, y proporcionar información confiable para la toma de decisiones ambientales y de salud pública.
 ## Librerías
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LinearRegression
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.svm import SVR
-from sklearn.metrics import mean_absolute_error, mean_squared_error
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- from sklearn.model_selection import train_test_split
+- from sklearn.preprocessing import StandardScaler
+- from sklearn.linear_model import LinearRegression
+- from sklearn.neighbors import KNeighborsRegressor
+- from sklearn.svm import SVR
+- from sklearn.metrics import mean_absolute_error, mean_squared_error
 ## Autores
 - Reyes García Diego
 - Santibáñez Rivero Gabriela
