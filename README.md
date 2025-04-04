@@ -21,8 +21,8 @@ from sklearn.neighbors import KNeighborsRegressor
 from sklearn.svm import SVR
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 ## Autores
-Reyes García Diego
-Santibáñez Rivero Gabriela
+- Reyes García Diego
+- Santibáñez Rivero Gabriela
 
 ## Pasos para clonar el proyecto en local
 Pasos para clonar y ejecutar el proyecto en local.
