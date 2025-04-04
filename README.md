@@ -4,8 +4,6 @@
 Para las ciudades: Ciudad de México (CMX), Monterrey (MTY) y Guadalajara (GDL), desarrollar y evaluar modelos de predicción utilizando algoritmos de aprendizaje automático para predecir las concentraciones de los contaminantes relevantes para el Índice de Calidad del Aire (AQI) según IMECA, como lo son: PM10, NO₂, O₃ y CO. 
 ---
 
-## 📚 Tabla de Contenidos
-
 ## Descripción
 A partir de estaciones de monitoreo de las principales ciudades de México: Ciudad de México (CMX), Monterrey (MTY) y Guadalajara (GDL), desarrollar y evaluar modelos de predicción utilizando algoritmos de aprendizaje automático para predecir las concentraciones de los contaminantes relevantes para el Índice de Calidad del Aire (AQI) según IMECA, como lo son: PM10, NO₂, O₃ y CO. Con el fin de prever los niveles de contaminación atmosférica, optimizar las estrategias de monitoreo de la calidad del aire, y proporcionar información confiable para la toma de decisiones ambientales y de salud pública.
 ## Características
