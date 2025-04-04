@@ -25,7 +25,8 @@ A través de la predicción, prever los niveles de contaminación atmosférica, 
 - Santibáñez Rivero Gabriela
 
 ## Pasos para clonar el proyecto en local
-Pasos para clonar y ejecutar el proyecto en local.
 Asegurate de tener los datos crudos en la misma carpeta que los Notebooks
+
 Descargar dataset: https://drive.google.com/file/d/1x6G6sUUic91Goo-8PE3yaXTzl6kxdh_5/view?usp=sharing
+
 Requisitos previos: Para compilar el programa debes asegurarte de tener todas las librerías mencionadas, el programa fue compilado en Google Colab
